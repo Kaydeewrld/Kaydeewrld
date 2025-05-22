@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thekaydeewrld" target="blank"><img src="https://img.shields.io/twitter/follow/thekaydeewrld?logo=twitter&style=for-the-badge" alt="thekaydeewrld" /></a> </p>
 
-- 🔭 I’m currently working on [a hospital's website](https://lifepointmedicalcentre.com.ng/)
+- 🔭 I’m currently working on [a hospital's website](https://delighthospital.com/)
 
 - 🌱 I’m currently learning **new laravel framework**
 
